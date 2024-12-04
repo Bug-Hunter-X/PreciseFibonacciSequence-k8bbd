@@ -1,0 +1,1 @@
+This repository contains a TypeScript function that attempts to print the Fibonacci sequence up to a given number of terms. However, the function contains a bug resulting in an incorrect sequence. The bug is identified and fixed in the bugSolution.ts file.
